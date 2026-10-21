@@ -1,8 +1,8 @@
 Package: stargazer2
 Type: Package
 Title: Beautiful Regression Tables for Modern Econometrics Packages
-Version: 0.1.0
-Date: 2026-06-30
+Version: 0.1.1
+Date: 2026-10-20
 Authors@R: c(
     person("Tom", "Zylkin", role = c("aut", "cre"),
            email = "tzylkin@richmond.edu"))
@@ -23,8 +23,8 @@ VignetteBuilder: knitr
 Config/testthat/edition: 3
 Config/roxygen2/version: 8.0.0
 NeedsCompilation: no
-Packaged: 2026-07-09 12:50:53 UTC; tzylkin
+Packaged: 2026-10-21 01:52:18 UTC; tzylkin
 Author: Tom Zylkin [aut, cre]
 Maintainer: Tom Zylkin <tzylkin@richmond.edu>
 Repository: CRAN
-Date/Publication: 2026-07-17 14:20:02 UTC
+Date/Publication: 2026-10-21 03:00:02 UTC
